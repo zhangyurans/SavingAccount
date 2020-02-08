@@ -15,15 +15,21 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="SavingAccount.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="Account.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Date.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="SavingAccount.h">
+    <ClInclude Include="Account.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Date.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
